@@ -1,0 +1,1 @@
+# MS-Excel-Script-for-Election-Rezults-Data
